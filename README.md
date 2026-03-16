@@ -1,5 +1,5 @@
-# yiliu.github.io
-Yi Liu's website
+# Yi Liu Personal Page
+Website URL: https://gyang-eng.github.io/PersonalWebsite/
 
 ## GitHub Pages deployment
 This repository includes a GitHub Actions workflow at `.github/workflows/deploy-pages.yml`
